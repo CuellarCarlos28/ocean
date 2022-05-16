@@ -1,4 +1,4 @@
-# Frond
+# FrondEnd
 Se utilixo figma para la realizar la maquetación de las diferentes paginas que componen el sitio web, una vez teniedo esto se dividieron las actvidades para realizar las diferentes secciones del sitio web.
 
 # Footer
