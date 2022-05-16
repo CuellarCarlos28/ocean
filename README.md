@@ -1,7 +1,7 @@
 # ocean
 
-Footer
-para la creación del footer se utilizaron 
+#Footer
+*para la creación del footer se utilizaron*
 
-Sobre nosotros
+#Sobre nosotros
 a
